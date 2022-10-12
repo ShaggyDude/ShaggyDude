@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaggyDude
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning qwik
+- 🌱 I’m currently learning [qwik](https://qwik.builder.io/)
 - 💞️ I’m looking to collaborate on a universal design spec based 80% on Material Design 2
 - 📫 How to reach me ...
 
