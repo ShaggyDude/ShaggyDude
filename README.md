@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaggyDude
+- 👋 Hi, I’m Scott Romack
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently watching [qwik](https://qwik.builder.io/) the fastest framework on the web
 
